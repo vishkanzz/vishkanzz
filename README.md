@@ -4,7 +4,7 @@ I'm a bioengineer on a journey to becoming a computational neuroscientist. Curre
 
 🔬 Research Interests: Computational modeling, statistical learning, and cognitive flexibility.
 
-💻 Tech & Tools: Python, MATLAB, Machine Learning, Neuropixels data analysis.
+💻 Tech & Tools: Python, MATLAB, Machine Learning.
 
 <!--
 **vishkanzz/vishkanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
