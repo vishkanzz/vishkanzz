@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there! 👋 I'm Vishal Kannan
+
+I'm a bioengineer on a journey to becoming a computational neuroscientist. Currently, I'm a PhD researcher at the Bernstein Center for Computational Neuroscience, Berlin, where I explore how the brain balances stability and flexibility to process and adapt to the world around us.
+
+🔬 Research Interests: Computational modeling, statistical learning, and cognitive flexibility.
+
+💻 Tech & Tools: Python, MATLAB, Machine Learning, Neuropixels data analysis.
 
 <!--
 **vishkanzz/vishkanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
