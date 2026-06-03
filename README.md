@@ -1,8 +1,8 @@
-Hi there! 👋 I'm Vishal Kannan
+👋 I'm Vishal Kannan
 
-I'm a bioengineer on a journey to becoming a computational neuroscientist. Currently, I'm a PhD researcher at the Bernstein Center for Computational Neuroscience, Berlin, where I explore how the brain balances stability and flexibility to process and adapt to the world around us.
+I'm a bioengineer on a journey to becoming a computational neuroscientist. Currently, I'm a PhD researcher at the Bernstein Center for Computational Neuroscience, LMU University, Munich, where I build simple, interpretable models to uncover the theoretical principles behind complex neural and behavioral data.
 
-🔬 Research Interests: Computational modeling, statistical learning, and cognitive flexibility.
+🔬 Research Interests: Computational modeling, Normative theories, statistical learning, and cognitive flexibility.
 
 💻 Tech & Tools: Python, MATLAB, Machine Learning.
 
