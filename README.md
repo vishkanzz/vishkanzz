@@ -1,6 +1,6 @@
-👋 I'm Vishal Kannan
+I'm Vishal Kannan
 
-I'm a bioengineer on a journey to becoming a computational neuroscientist. Currently, I'm a PhD researcher at the Bernstein Center for Computational Neuroscience, LMU University, Munich, where I build simple, interpretable models to uncover the theoretical principles behind complex neural and behavioral data.
+I'm a bioengineer who have been drawn to problems where biological complexity can be measured, modeled or engineered. I am now pursuing a PhD in Computational Neuroscience at the Bernstein Center for Computational Neuroscience, LMU Munich, where I study the structure and variability of animal behavior using dynamical systems, information theory and statistical modelling. I am particularly interested in problems where a useful model is not just predictive, but also helps reveal something simpler and interpretable about the system itself.
 
 🔬 Research Interests: Computational modeling, Normative theories, statistical learning, and cognitive flexibility.
 
